@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wader1980.github.io/sitemap.xml
